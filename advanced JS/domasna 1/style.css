@@ -1,0 +1,33 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+fieldset {
+    height: 300px;
+    width: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+#color {
+    height: 20px;
+    margin: 1%;
+}
+#fontSize {
+    height: 20px;
+    margin: 1%;
+}
+#items {
+    height: 20px;
+    margin: 1%;
+}
+#formButton {
+    height: 20px;
+    margin: 1%;
+}
+p {
+    margin: 1%;
+}
